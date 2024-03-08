@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "845715425783",
+    "project_id": "ststfirepp18",
+    "storage_bucket": "ststfirepp18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845715425783:ios:0dd898ec1a98a0ce7a46f2",
+        "android_client_info": {
+          "package_name": "com.plinkoUN.D18MPP"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzd0dxK8eq54Z2IV-FHpZ4QkLOgBIJWQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
